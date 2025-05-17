@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
- 
-import 'package:netflix_clone/core/colors.dart';
-import 'package:netflix_clone/presentation/main(bottomNav)/bottomnav.dart';
+import 'package:netfix_api_clone/presentation/main(bottomNav)/bottomnav.dart';
+import 'package:netfix_api_clone/core/colors.dart';
  
 
 void main() {

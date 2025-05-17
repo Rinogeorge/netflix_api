@@ -2,10 +2,10 @@ import 'dart:convert';
 
 // ignore: depend_on_referenced_packages
 import 'package:http/http.dart' as http;
-import 'package:netflix_clone/core/const.dart';
-import 'package:netflix_clone/core/model/models.dart';
 
- 
+import 'package:netfix_api_clone/core/const.dart';
+import 'package:netfix_api_clone/core/model/models.dart';
+
 class Api {
   static const _trendingUrl =
       "https://api.themoviedb.org/3/trending/movie/day?api_key=$apiKey";

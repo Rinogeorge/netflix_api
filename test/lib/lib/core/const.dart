@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
- 
-import 'package:netflix_clone/core/model/models.dart';
+import 'package:netfix_api_clone/core/model/models.dart';
  
 
 const kwidth = SizedBox(width: 10);
